@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 0, 0.5),
+      rgba(0, 0, 255, 0.5)
+    ),
+    url("https://tse2.mm.bing.net/th?id=OIP.a4EhMhAAElnnDJZHaARm7AHaE8&pid=Api&P=0");
+}
+
+h1 {
+  color: cadetblue;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: darkgrey;
+  padding: 50px;
+  margin: auto;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
